@@ -1,0 +1,23 @@
+# Archivos del sistema y editor
+.DS_Store
+.idea/
+.vscode/
+*.log
+
+# Dependencias (Node.js)
+node_modules/
+npm-debug.log
+
+# Entornos virtuales (Python)
+venv/
+__pycache__/
+
+# Archivos de configuración sensible
+.env
+*.key
+*.pem
+
+# Archivos generados (como builds)
+dist/
+build/
+*.exe
