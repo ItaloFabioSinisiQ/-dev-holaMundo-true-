@@ -1,0 +1,37 @@
+[
+  {
+    "pregunta": "proyectos",
+    "respuesta": "¡Claro! En mi sección de proyectos encontrarás una colección de mis creaciones más destacadas. Desde aplicaciones web interactivas hasta sistemas complejos, cada proyecto representa un desafío superado y una nueva historia que contar. Me especializo en crear soluciones que no solo funcionan bien, sino que también ofrecen una experiencia de usuario excepcional. ¿Te gustaría explorar alguno en particular? 😉",
+    "keywords": ["proyectos", "trabajos", "portafolio", "muestrame tu trabajo", "que has hecho"]
+  },
+  {
+    "pregunta": "habilidades",
+    "respuesta": "¡Prepárate para conocer mi arsenal tecnológico! 🚀 En el desarrollo frontend, domino HTML5, CSS3, JavaScript y frameworks modernos como React y Vue.js. En el backend, trabajo con Node.js, Python y bases de datos SQL y NoSQL. También tengo experiencia en DevOps, control de versiones con Git, y metodologías ágiles. Me mantengo constantemente actualizado con las últimas tecnologías y mejores prácticas. ¿Hay alguna tecnología específica sobre la que te gustaría saber más?",
+    "keywords": ["habilidades", "skills", "tecnologias", "que sabes hacer", "herramientas", "lenguajes"]
+  },
+  {
+    "pregunta": "contacto",
+    "respuesta": "¡Me encanta conectar con otros desarrolladores y potenciales colaboradores! Puedes encontrarme en la sección de Contacto donde comparto mi email profesional y mis redes sociales. Estoy activo en LinkedIn, GitHub y Twitter, donde comparto mis proyectos y conocimientos. No dudes en escribirme para charlar sobre proyectos, colaboraciones o simplemente intercambiar ideas. ¡Prometo responder rápido y no morder! (a menos que seas un bug persistente) 😉",
+    "keywords": ["contacto", "hablar", "email", "telefono", "redes sociales", "colaborar", "conectemos"]
+  },
+  {
+    "pregunta": "experiencia",
+    "respuesta": "Mi trayectoria profesional es un viaje lleno de aprendizaje y crecimiento. He trabajado en startups innovadoras y empresas establecidas, liderando equipos y desarrollando soluciones escalables. Mi experiencia incluye roles como desarrollador full stack, líder técnico y consultor. Cada proyecto ha sido una oportunidad para mejorar mis habilidades y contribuir al éxito del equipo. ¿Te gustaría conocer más detalles sobre algún rol específico?",
+    "keywords": ["experiencia", "laboral", "trabajo", "donde has trabajado", "historial", "carrera"]
+  },
+  {
+    "pregunta": "formacion",
+    "respuesta": "Mi formación es una combinación de educación formal y aprendizaje continuo. Me gradué en [Tu Carrera] y desde entonces he completado numerosas certificaciones en tecnologías emergentes. Participo activamente en cursos online, bootcamps y conferencias para mantener mis conocimientos actualizados. Creo firmemente en el aprendizaje permanente y dedico tiempo cada semana a explorar nuevas tecnologías y metodologías. ¿Te interesa saber más sobre algún área específica de mi formación? 🧠",
+    "keywords": ["formacion", "educacion", "estudios", "certificaciones", "aprendido", "cursos"]
+  },
+  {
+    "pregunta": "quien eres",
+    "respuesta": "Soy [Tu Nombre], un desarrollador web full stack con una pasión desbordante por crear soluciones digitales innovadoras. Mi enfoque combina habilidades técnicas sólidas con una mente creativa y analítica. Cuando no estoy programando, disfruto de la fotografía, los videojuegos y el senderismo. Me considero un eterno aprendiz y un apasionado por la tecnología que busca constantemente nuevos desafíos. ¡Y sí, confieso que soy adicto al café! 😁 ¿Te gustaría conocer más sobre mi enfoque del desarrollo?",
+    "keywords": ["quien eres", "eres", "sobre ti", "presentate", "cuentame de ti", "personalidad"]
+  },
+  {
+    "pregunta": "hola",
+    "respuesta": "¡Hola! Es un placer conocerte. Soy [Tu Nombre] y estoy aquí para ayudarte con cualquier consulta sobre desarrollo web, programación o tecnología en general. ¿En qué puedo asistirte hoy? Estoy listo para compartir conocimientos, resolver dudas o simplemente charlar sobre el mundo tech. ¡No dudes en preguntar!",
+    "keywords": ["hola", "que tal", "buenas", "hey", "saludos"]
+  }
+] 
