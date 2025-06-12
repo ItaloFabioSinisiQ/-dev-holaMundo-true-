@@ -1,37 +1,102 @@
 [
   {
     "pregunta": "proyectos",
-    "respuesta": "¡Claro! En mi sección de proyectos encontrarás una colección de mis creaciones más destacadas. Desde aplicaciones web interactivas hasta sistemas complejos, cada proyecto representa un desafío superado y una nueva historia que contar. Me especializo en crear soluciones que no solo funcionan bien, sino que también ofrecen una experiencia de usuario excepcional. ¿Te gustaría explorar alguno en particular? 😉",
-    "keywords": ["proyectos", "trabajos", "portafolio", "muestrame tu trabajo", "que has hecho"]
+    "respuesta": "¡Excelente pregunta! En mi portafolio encontrarás proyectos donde he aplicado mis habilidades en análisis de datos y automatización. Destacan mis desarrollos en Power BI para visualización de métricas de call center, sistemas de análisis de riesgo financiero con Python y SQL, y pipelines ETL para procesamiento de datos masivos. Cada proyecto refleja mi pasión por transformar datos complejos en insights accionables que impulsan decisiones empresariales estratégicas. ¿Te interesa conocer algún proyecto específico en detalle? 📊",
+    "keywords": ["proyectos", "trabajos", "portafolio", "muestrame tu trabajo", "que has hecho", "portfolio", "desarrollos", "casos de exito", "ejemplos", "creaciones", "logros"]
   },
   {
     "pregunta": "habilidades",
-    "respuesta": "¡Prepárate para conocer mi arsenal tecnológico! 🚀 En el desarrollo frontend, domino HTML5, CSS3, JavaScript y frameworks modernos como React y Vue.js. En el backend, trabajo con Node.js, Python y bases de datos SQL y NoSQL. También tengo experiencia en DevOps, control de versiones con Git, y metodologías ágiles. Me mantengo constantemente actualizado con las últimas tecnologías y mejores prácticas. ¿Hay alguna tecnología específica sobre la que te gustaría saber más?",
-    "keywords": ["habilidades", "skills", "tecnologias", "que sabes hacer", "herramientas", "lenguajes"]
+    "respuesta": "¡Mi stack tecnológico está enfocado en Data Analytics y Cloud Computing! 🚀 Domino Python para análisis de datos y automatización, SQL para manipulación de bases de datos, Power BI y Tableau para visualización avanzada. Tengo experiencia sólida en Cloud Computing (AWS/GCP/Azure), Databricks, Apache Spark y desarrollo de ETL's. También manejo Flask para APIs, Machine Learning con Scikit-learn, Genesys Cloud para call centers, y metodologías ágiles como SCRUM. Mi fuerte es convertir datos complejos en historias que impulsen el negocio. ¿Quieres profundizar en alguna tecnología específica?",
+    "keywords": ["habilidades", "skills", "tecnologias", "que sabes hacer", "herramientas", "lenguajes", "competencias", "conocimientos", "expertise", "capacidades", "python", "sql", "power bi", "tableau", "cloud", "aws", "gcp", "azure", "machine learning", "etl", "databricks", "apache spark", "genesys", "scrum"]
   },
   {
     "pregunta": "contacto",
-    "respuesta": "¡Me encanta conectar con otros desarrolladores y potenciales colaboradores! Puedes encontrarme en la sección de Contacto donde comparto mi email profesional y mis redes sociales. Estoy activo en LinkedIn, GitHub y Twitter, donde comparto mis proyectos y conocimientos. No dudes en escribirme para charlar sobre proyectos, colaboraciones o simplemente intercambiar ideas. ¡Prometo responder rápido y no morder! (a menos que seas un bug persistente) 😉",
-    "keywords": ["contacto", "hablar", "email", "telefono", "redes sociales", "colaborar", "conectemos"]
+    "respuesta": "¡Me encanta conectar con profesionales del mundo de los datos y la tecnología! 📱 Puedes contactarme al (+51) 977170609 o escribirme a sinisiquintanaitalo@gmail.com. También estoy activo en LinkedIn (https://www.linkedin.com/in/italo-fabio-sinisi-quintana/) donde comparto insights sobre análisis de datos y tendencias tecnológicas. Siempre estoy abierto a discutir proyectos interesantes, colaboraciones o simplemente intercambiar conocimientos sobre el fascinante mundo del data analytics. ¡No dudes en escribirme!",
+    "keywords": ["contacto", "hablar", "email", "telefono", "redes sociales", "colaborar", "conectemos", "linkedin", "comunicarse", "escribir", "llamar", "conversar", "contactar", "numero", "correo", "mail"]
   },
   {
     "pregunta": "experiencia",
-    "respuesta": "Mi trayectoria profesional es un viaje lleno de aprendizaje y crecimiento. He trabajado en startups innovadoras y empresas establecidas, liderando equipos y desarrollando soluciones escalables. Mi experiencia incluye roles como desarrollador full stack, líder técnico y consultor. Cada proyecto ha sido una oportunidad para mejorar mis habilidades y contribuir al éxito del equipo. ¿Te gustaría conocer más detalles sobre algún rol específico?",
-    "keywords": ["experiencia", "laboral", "trabajo", "donde has trabajado", "historial", "carrera"]
+    "respuesta": "Mi trayectoria profesional suma más de 3 años especializándome en análisis de datos. En UBYCALL - Pizza Hut Salvador (2023-2024) fui Analista de Datos Call Center, donde logré aumentar las conversiones de televenta en un 15% mediante análisis de KPIs y optimización de procesos. Anteriormente, en ALFIN BANCO (2022) me enfoqué en análisis financiero y modelos de riesgo crediticio. Inicié en Gestión Inmobiliaria Pacífico (2021-2022) optimizando procesos administrativos. Cada experiencia me ha permitido perfeccionar mis habilidades en transformar datos en valor empresarial. ¿Te interesa conocer más sobre algún rol específico?",
+    "keywords": ["experiencia", "laboral", "trabajo", "donde has trabajado", "historial", "carrera", "trayectoria", "profesional", "empleos", "roles", "puestos", "ubycall", "pizza hut", "alfin banco", "call center", "analista", "logros", "resultados"]
   },
   {
     "pregunta": "formacion",
-    "respuesta": "Mi formación es una combinación de educación formal y aprendizaje continuo. Me gradué en [Tu Carrera] y desde entonces he completado numerosas certificaciones en tecnologías emergentes. Participo activamente en cursos online, bootcamps y conferencias para mantener mis conocimientos actualizados. Creo firmemente en el aprendizaje permanente y dedico tiempo cada semana a explorar nuevas tecnologías y metodologías. ¿Te interesa saber más sobre algún área específica de mi formación? 🧠",
-    "keywords": ["formacion", "educacion", "estudios", "certificaciones", "aprendido", "cursos"]
+    "respuesta": "Mi formación combina educación formal y especialización continua en tecnología. Soy egresado de Administración de Obras de Construcción Civil en SENCICO, pero mi pasión me llevó hacia el mundo de los datos. He completado especializaciones en EDTEAM: Python para análisis de datos, SQL avanzado, Análisis de Datos, Power BI, y REST APIs. Tengo certificaciones en SCRUM y Genesys Cloud. Dedico tiempo constantemente a mantenerme actualizado con las últimas tendencias en Data Science y Cloud Computing. El aprendizaje continuo es mi filosofía. 🧠📚",
+    "keywords": ["formacion", "educacion", "estudios", "certificaciones", "aprendido", "cursos", "sencico", "edteam", "python", "sql", "power bi", "scrum", "genesys", "capacitacion", "especialización", "aprendizaje", "conocimientos"]
   },
   {
     "pregunta": "quien eres",
-    "respuesta": "Soy [Tu Nombre], un desarrollador web full stack con una pasión desbordante por crear soluciones digitales innovadoras. Mi enfoque combina habilidades técnicas sólidas con una mente creativa y analítica. Cuando no estoy programando, disfruto de la fotografía, los videojuegos y el senderismo. Me considero un eterno aprendiz y un apasionado por la tecnología que busca constantemente nuevos desafíos. ¡Y sí, confieso que soy adicto al café! 😁 ¿Te gustaría conocer más sobre mi enfoque del desarrollo?",
-    "keywords": ["quien eres", "eres", "sobre ti", "presentate", "cuentame de ti", "personalidad"]
+    "respuesta": "Soy Italo Fabio Sinisi Quintana, un Data Analyst apasionado con más de 3 años transformando datos en decisiones estratégicas. Mi especialidad está en Python, SQL, Power BI y Cloud Computing, con un enfoque particular en call centers, finanzas y retail. Me caracterizo por mi capacidad analítica, pensamiento estratégico y habilidad para comunicar insights complejos de manera simple. Cuando no estoy analizando datos, disfruto explorando nuevas tecnologías y metodologías. Mi objetivo es ayudar a las empresas a tomar decisiones basadas en datos que generen impacto real. ¿Te gustaría conocer más sobre mi enfoque del análisis de datos? 😊",
+    "keywords": ["quien eres", "eres", "sobre ti", "presentate", "cuentame de ti", "personalidad", "italo", "sinisi", "quintana", "data analyst", "analista", "perfil", "biografia"]
   },
   {
     "pregunta": "hola",
-    "respuesta": "¡Hola! Es un placer conocerte. Soy [Tu Nombre] y estoy aquí para ayudarte con cualquier consulta sobre desarrollo web, programación o tecnología en general. ¿En qué puedo asistirte hoy? Estoy listo para compartir conocimientos, resolver dudas o simplemente charlar sobre el mundo tech. ¡No dudes en preguntar!",
-    "keywords": ["hola", "que tal", "buenas", "hey", "saludos"]
+    "respuesta": "¡Hola! Es un placer conocerte. Soy Italo Fabio Sinisi Quintana, Data Analyst especializado en convertir datos complejos en insights valiosos para el negocio. Estoy aquí para ayudarte con cualquier consulta sobre análisis de datos, Python, SQL, Power BI, Cloud Computing o cualquier tema relacionado con data analytics. ¿En qué puedo asistirte hoy? Estoy listo para compartir conocimientos y experiencias del fascinante mundo de los datos. ¡No dudes en preguntar! 👋",
+    "keywords": ["hola", "que tal", "buenas", "hey", "saludos", "hi", "hello", "buenos dias", "buenas tardes", "buenas noches"]
+  },
+  {
+    "pregunta": "python",
+    "respuesta": "¡Python es mi lenguaje favorito para análisis de datos! 🐍 Lo uso para automatización de procesos, limpieza y transformación de datos, desarrollo de modelos predictivos con scikit-learn, y creación de scripts para ETLs. En mis proyectos he implementado soluciones que van desde análisis de riesgo crediticio hasta optimización de procesos de call center. También desarrollo APIs con Flask y trabajo con librerías como Pandas, NumPy y Matplotlib. Mi experiencia incluye integración con bases de datos SQL y servicios cloud. ¿Hay algún aspecto específico de Python que te interese explorar?",
+    "keywords": ["python", "programacion", "codigo", "script", "pandas", "numpy", "matplotlib", "scikit-learn", "flask", "automatizacion", "apis", "machine learning", "algoritmos"]
+  },
+  {
+    "pregunta": "sql",
+    "respuesta": "SQL es fundamental en mi trabajo diario como Data Analyst. Lo utilizo para extraer, manipular y analizar grandes volúmenes de datos desde bases de datos complejas. Mi experiencia incluye consultas avanzadas, optimización de queries, creación de vistas y procedimientos almacenados. He trabajado con diferentes motores como MySQL, PostgreSQL y SQL Server. En mis proyectos he desarrollado consultas que procesan millones de registros para generar insights críticos del negocio, especialmente en sectores financiero y call centers. ¿Te interesa conocer algún caso específico donde SQL haya sido clave?",
+    "keywords": ["sql", "base de datos", "consultas", "queries", "mysql", "postgresql", "sql server", "datos", "tablas", "joins", "procedimientos", "vistas", "database"]
+  },
+  {
+    "pregunta": "power bi",
+    "respuesta": "Power BI es mi herramienta estrella para visualización de datos y business intelligence! 📊 He desarrollado dashboards interactivos para call centers que permitieron identificar patrones de comportamiento y optimizar KPIs de ventas. Creo informes personalizados que transforman datos complejos en historias visuales comprensibles para stakeholders. Mi experiencia incluye conexión con múltiples fuentes de datos, modelado dimensional, DAX avanzado y implementación de medidas calculadas. Los dashboards que desarrollo no solo son visualmente atractivos, sino que impulsan decisiones estratégicas reales. ¿Quieres ver ejemplos de dashboards que he creado?",
+    "keywords": ["power bi", "dashboard", "visualizacion", "reportes", "business intelligence", "bi", "graficos", "dax", "tablas", "kpis", "metricas", "informes"]
+  },
+  {
+    "pregunta": "cloud",
+    "respuesta": "Tengo experiencia sólida en las principales plataformas de Cloud Computing: AWS, Google Cloud Platform (GCP) y Microsoft Azure. ☁️ Trabajo con servicios como databricks para big data analytics, implemento soluciones ETL en la nube, y aprovecho Apache Spark para procesamiento distribuido. Mi enfoque está en arquitecturas escalables que permitan análisis de datos en tiempo real y batch processing. He migrado sistemas on-premise a la nube y optimizado costos mediante el uso eficiente de recursos cloud. La nube me permite manejar volúmenes masivos de datos de manera eficiente. ¿Te interesa alguna plataforma cloud específica?",
+    "keywords": ["cloud", "nube", "aws", "azure", "gcp", "google cloud", "microsoft", "amazon", "databricks", "apache spark", "etl", "big data", "escalabilidad", "migracion"]
+  },
+  {
+    "pregunta": "call center",
+    "respuesta": "Mi experiencia en call centers es muy especializada, especialmente con Genesys Cloud donde estoy certificado. En UBYCALL - Pizza Hut Salvador supervisé equipos de agentes y desarrollé sistemas de análisis que mejoraron la satisfacción del cliente significativamente. Analizo métricas como AHT (Average Handle Time), FCR (First Call Resolution), tiempo en cola, y conversiones de televenta. He creado dashboards que permiten monitoreo en tiempo real del performance de agentes y identificación de oportunidades de mejora. Logré aumentar las conversiones en un 15% mediante análisis predictivo de patrones de llamadas. ¿Quieres conocer más sobre métricas específicas de call center?",
+    "keywords": ["call center", "genesys", "genesys cloud", "ubycall", "pizza hut", "agentes", "telefonia", "aht", "fcr", "metricas", "conversiones", "televenta", "supervision", "contact center"]
+  },
+  {
+    "pregunta": "finanzas",
+    "respuesta": "En el sector financiero desarrollé mi experiencia en ALFIN BANCO, donde me especialicé en análisis de riesgo crediticio y evaluación de solicitudes de crédito. Creé modelos predictivos en Excel y Python que mejoraron la precisión en la evaluación de riesgos, reduciendo significativamente el porcentaje de impagos. Trabajé con scoring crediticio, análisis de comportamiento de clientes, y generación de informes personalizados para seguimiento de carteras. Mi enfoque combina análisis cuantitativo riguroso con comprensión del negocio financiero. También desarrollé tableros de control para monitoreo de KPIs financieros clave. ¿Te interesa conocer más sobre modelos de riesgo específicos?",
+    "keywords": ["finanzas", "banco", "alfin", "credito", "riesgo", "scoring", "financiero", "impagos", "cartera", "modelos", "prediccion", "evaluacion", "prestamos"]
+  },
+  {
+    "pregunta": "tableau",
+    "respuesta": "Tableau complementa perfectamente mi stack de visualización junto con Power BI. Lo utilizo especialmente para análisis exploratorio avanzado y cuando necesito capacidades de visualización más sofisticadas. Mi experiencia incluye creación de dashboards interactivos, mapas geoespaciales, análisis de series temporales y storytelling con datos. Tableau me permite crear visualizaciones que revelan patrones ocultos en los datos y facilitan la comunicación de insights complejos a audiencias no técnicas. Es especialmente poderoso para análisis ad-hoc y presentaciones ejecutivas de alto impacto. ¿Hay algún tipo específico de visualización que te interese explorar?",
+    "keywords": ["tableau", "visualizacion", "dashboards", "mapas", "graficos", "storytelling", "analisis exploratorio", "insights", "presentaciones"]
+  },
+  {
+    "pregunta": "machine learning",
+    "respuesta": "Mi experiencia en Machine Learning se centra en aplicaciones prácticas para resolver problemas empresariales reales. Utilizo principalmente scikit-learn para desarrollo de modelos predictivos, especialmente en análisis de riesgo crediticio y predicción de comportamiento de clientes. He implementado algoritmos de clasificación, regresión y clustering. Mi enfoque es pragmático: primero entiendo el problema de negocio, luego selecciono el algoritmo más apropiado, no el más complejo. Trabajo con feature engineering, validación cruzada y métricas de evaluación relevantes. El ML es una herramienta poderosa, pero siempre debe estar al servicio de objetivos empresariales claros. ¿Te interesa algún tipo específico de modelo predictivo?",
+    "keywords": ["machine learning", "ml", "scikit-learn", "modelos", "predictivo", "algoritmos", "clasificacion", "regresion", "clustering", "ia", "inteligencia artificial", "prediccion"]
+  },
+  {
+    "pregunta": "etl",
+    "respuesta": "Los procesos ETL (Extract, Transform, Load) son fundamentales en mi trabajo diario. Diseño y desarrollo pipelines robustos que extraen datos de múltiples fuentes, los transforman según reglas de negocio específicas, y los cargan en data warehouses optimizados para análisis. Trabajo con herramientas como Python, SQL, y plataformas cloud para automatizar estos procesos. Mi experiencia incluye manejo de datos estructurados y no estructurados, validación de calidad de datos, y implementación de procesos de monitoreo. He optimizado ETLs que procesan millones de registros diarios con alta confiabilidad. ¿Quieres conocer más sobre algún aspecto específico de ETL?",
+    "keywords": ["etl", "extract", "transform", "load", "pipelines", "data warehouse", "integracion", "datos", "automatizacion", "procesos", "calidad", "transformacion"]
+  },
+  {
+    "pregunta": "scrum",
+    "respuesta": "Estoy certificado en metodologías ágiles SCRUM, lo que me permite trabajar eficientemente en equipos multidisciplinarios y proyectos complejos de datos. Aplico principios ágiles en el desarrollo de proyectos de analytics: iteraciones cortas, entrega continua de valor, y adaptación rápida a cambios de requerimientos. Mi experiencia incluye participación en sprints, retrospectivas, y planning sessions. La metodología SCRUM es especialmente valiosa en proyectos de datos donde los requerimientos pueden evolucionar según los insights que van emergiendo. Facilita la colaboración entre equipos técnicos y de negocio. ¿Te interesa saber cómo aplico SCRUM en proyectos de análisis de datos?",
+    "keywords": ["scrum", "agile", "metodologias", "sprint", "retrospectiva", "planning", "equipo", "colaboracion", "iterativo", "adaptacion", "certificado"]
+  },
+  {
+    "pregunta": "logros",
+    "respuesta": "Estoy orgulloso de varios logros clave en mi carrera: aumenté las conversiones de televenta en un 15% en UBYCALL mediante análisis de KPIs y optimización de procesos; desarrollé modelos de riesgo crediticio que redujeron significativamente los impagos en ALFIN BANCO; implementé sistemas de informes que mejoraron la satisfacción del cliente y redujeron tiempos de respuesta. También he automatizado procesos que antes tomaban horas y ahora se ejecutan en minutos. Cada logro representa no solo una mejora técnica, sino un impacto real en el negocio y las personas. ¿Te gustaría profundizar en algún logro específico?",
+    "keywords": ["logros", "exitos", "resultados", "impacto", "mejoras", "optimizacion", "ahorro", "eficiencia", "kpis", "conversiones", "automatizacion", "satisfaccion"]
+  },
+  {
+    "pregunta": "apis",
+    "respuesta": "Tengo experiencia sólida trabajando con REST APIs tanto en su consumo como en su desarrollo. Utilizo APIs para integrar diferentes sistemas y automatizar flujos de datos entre aplicaciones. Con Flask desarrollo APIs robustas para exponer modelos de machine learning y servicios de análisis de datos. Mi experiencia incluye autenticación, manejo de errores, documentación con Swagger, y optimización de performance. También consumo APIs de terceros para enriquecer análisis con datos externos. Las APIs son fundamentales para crear ecosistemas de datos interconectados y escalables. ¿Te interesa algún aspecto específico del desarrollo o consumo de APIs?",
+    "keywords": ["apis", "rest", "flask", "integracion", "servicios", "web services", "json", "http", "endpoints", "swagger", "documentacion", "automatizacion"]
+  },
+  {
+    "pregunta": "excel",
+    "respuesta": "Aunque trabajo con herramientas avanzadas como Python y Power BI, Excel sigue siendo fundamental en mi toolkit. Lo utilizo para análisis exploratorio rápido, creación de modelos financieros complejos, y desarrollo de herramientas para usuarios finales que prefieren interfaces familiares. Mi experiencia incluye fórmulas avanzadas, tablas dinámicas, macros VBA, y integración con bases de datos externas. En el sector financiero desarrollé modelos de riesgo crediticio sofisticados completamente en Excel. Es una herramienta increíblemente versátil que, bien utilizada, puede ser tan poderosa como software especializado. ¿Hay algún aspecto específico de Excel que te interese?",
+    "keywords": ["excel", "microsoft office", "formulas", "tablas dinamicas", "macros", "vba", "modelos", "analisis", "hojas de calculo", "pivot", "graficos"]
   }
-] 
+]
