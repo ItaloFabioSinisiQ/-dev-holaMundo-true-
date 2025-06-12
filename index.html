@@ -276,6 +276,21 @@
             -webkit-background-clip: text;
             background-clip: text;
             color: transparent;
+            position: relative;
+            overflow: hidden;
+            white-space: nowrap;
+            animation: typing 3.5s steps(40, end),
+                       blink-caret .75s step-end infinite;
+        }
+
+        @keyframes typing {
+            from { width: 0 }
+            to { width: 100% }
+        }
+
+        @keyframes blink-caret {
+            from, to { border-color: transparent }
+            50% { border-color: var(--primary) }
         }
 
         .nav-links {
@@ -2818,7 +2833,7 @@
                 <a href="https://wa.me/977170609" aria-label="Contactarme por WhatsApp"><i class="fab fa-whatsapp"></i></a>
             </div>
 
-            <p class="copyright">© 2025 Italo Fabio. Todos los derechos desreservados.</p>
+            <p class="copyright">© 2025 Italo Fabio. Si lo puedes imaginar, lo puedes programar.</p>
         </div>
     </footer>
 
@@ -2874,7 +2889,7 @@
             container.innerHTML = '';
 
             // Genera 150 partículas para la sección de tutoriales
-            for (let i = 0; i < 150; i++) {
+            for (let i = 0; i < 300; i++) {
                 const particle = document.createElement('div');
                 particle.className = 'particle';
                 
