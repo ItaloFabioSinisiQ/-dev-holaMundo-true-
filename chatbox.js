@@ -14,7 +14,7 @@ const assistantConfig = {
     name: 'Italo',
     role: 'FULL-STACK DEV & DATA ANALYST',
     specialties: ['SQL','Python','React', 'Node.js', 'MongoDB', 'AWS'],
-    initialMessage: '¡Hola! Soy {name}, {role} especializado en {specialties}. ¿En qué proyecto estás trabajando?',
+    initialMessage: '¡Hola! Soy ITALO,  especializado en Analisis de datos. ¿En qué proyecto estás trabajando?',
     questions: {
         projectType: '¿Qué tipo de proyecto necesitas desarrollar?',
         timeline: '¿Tienes un timeline definido para el proyecto?',
