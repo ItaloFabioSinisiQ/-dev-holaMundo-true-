@@ -51,19 +51,54 @@ chatbox.innerHTML = `
 const styles = `
     .chatbox {
         position: fixed;
-        bottom: 20px;
-        right: 20px;
-        width: 350px;
+        width: 750px;
         height: 500px;
-        background: var(--dark-light);
-        border-radius: 15px;
-        box-shadow: 0 5px 25px rgba(0,0,0,0.2);
+        background: rgba(30, 30, 60, 0.6); /* Fondo oscuro translúcido */
+        backdrop-filter: blur(16px) saturate(180%);
+        -webkit-backdrop-filter: blur(16px) saturate(180%);
+        border: px solid #6c63ff;
+        box-shadow: 0 0 20px 2px #6c63ff, 0 0 40px 4px #a084ff33;
         display: flex;
         flex-direction: column;
         z-index: 1000;
         overflow: hidden;
-        border: 1px solid rgba(108, 99, 255, 0.2);
-        backdrop-filter: blur(10px);
+        animation: neon-glow 2.5s infinite alternate;
+        border-radius: 20px;
+        transition:
+            width 0.001s cubic-bezier(0.4,0,0.2,1),
+            height 0.6s cubic-bezier(0.4,0,0.2,1),
+            border-radius 0.01s,
+            box-shadow 0.1s,
+            opacity 0.1s,
+            transform 0.1s cubic-bezier(0.4,0,0.2,1);
+    }
+
+    .chatbox:not(.minimized) {
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        bottom: auto;
+        right: auto;
+    }
+
+    .chatbox.minimized {
+        top: auto;
+        left: auto;
+        right: 20px;
+        bottom: 20px;
+        width: 60px;
+        height: 60px;
+        border-radius: 50%;
+        box-shadow: 0 0 8px var(--primary), 0 0 15px var(--primary-light);
+        animation: attention-pulse 3s infinite ease-in-out;
+        display: flex;
+        flex-direction: column;
+        overflow: hidden;
+        transform: none;
+        opacity: 0.92;
+        transform: scale(0.92);
+        box-shadow: 0 0 20px 4px #6c63ff, 0 0 40px 8px #a084ff33;
+        transition: all 0.05s ease-out;
     }
 
     .chatbox-header {
@@ -170,17 +205,6 @@ const styles = `
         box-shadow: 0 0 15px rgba(108, 99, 255, 0.3);
     }
 
-    .chatbox.minimized {
-        width: 60px; /* Ancho del icono minimizado */
-        height: 60px; /* Altura del icono minimizado */
-        border-radius: 50%; /* Forma circular */
-        box-shadow: 0 0 8px var(--primary), 0 0 15px var(--primary-light);
-        animation: attention-pulse 3s infinite ease-in-out;
-        display: flex;
-        flex-direction: column;
-        overflow: hidden;
-    }
-
     .chatbox.minimized .chatbox-header {
         padding: 0;
         background: none;
@@ -197,8 +221,8 @@ const styles = `
     }
 
     .chatbox.minimized .chatbox-title {
-        width: 40px;
-        height: 40px;
+        width: 50px;
+        height: 50px;
         border-radius: 50%;
         background: rgba(108, 99, 255, 0.2);
         border: 1px solid var(--primary);
@@ -220,7 +244,7 @@ const styles = `
             transform: translateY(10px);
         }
         to {
-            opacity: 13;
+            opacity: 1;
             transform: translateY(0);
         }
     }
@@ -269,14 +293,19 @@ const styles = `
     /* Estilos para el nuevo elemento de onda */
     .chatbox-wave { display: none; } /* Asegurarse de que el div de onda esté oculto */
 
+    @keyframes neon-glow {
+        0%, 100% { box-shadow: 0 0 20px #6c63ff, 0 0 40px #a084ff33; }
+        50% { box-shadow: 0 0 40px #a084ff, 0 0 80px #6c63ff55; }
+    }
+
+    @keyframes bounce-minimize {
+        0% { transform: scale(1); }
+        60% { transform: scale(0.7); }
+        80% { transform: scale(1.05); }
+        100% { transform: scale(0.85); }
+    }
     .chatbox.minimized {
-        width: 60px; /* Ancho del icono minimizado */
-        height: 60px; /* Altura del icono minimizado */
-        border-radius: 50%; /* Forma circular */
-        /* Mantener efecto neón existente */
-        box-shadow: 0 0 8px var(--primary), 0 0 15px var(--primary-light);
-        /* Eliminamos la animación attention-pulse de aquí */
-        /* Asegurar que el contenido se oculte y solo quede el encabezado/icono */
+        animation: bounce-minimize 0.4s;
     }
 `;
 
