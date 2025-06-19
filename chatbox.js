@@ -220,7 +220,7 @@ const styles = `
             transform: translateY(10px);
         }
         to {
-            opacity: 1;
+            opacity: 13;
             transform: translateY(0);
         }
     }
